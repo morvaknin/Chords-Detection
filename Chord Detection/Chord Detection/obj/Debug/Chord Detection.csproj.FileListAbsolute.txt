@@ -1,0 +1,14 @@
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\bin\Debug\Chord Detection.exe.config
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\bin\Debug\Chord Detection.exe
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\bin\Debug\Chord Detection.pdb
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord Detection.csprojResolveAssemblyReference.cache
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\MainWindow.g.cs
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\App.g.cs
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord Detection_MarkupCompile.cache
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord Detection_MarkupCompile.lref
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\MainWindow.baml
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord Detection.g.resources
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord_Detection.Properties.Resources.resources
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord Detection.csproj.GenerateResource.Cache
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord Detection.exe
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\Chord Detection\Chord Detection\obj\Debug\Chord Detection.pdb
