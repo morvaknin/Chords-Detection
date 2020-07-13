@@ -13,7 +13,7 @@ the chords will keep changing regardless to the user success or failure.
 
 How it works:
 Workspace: The C# based interface runs a python script in another thread which listens to the user input and analyzes the input to figure which chord the user was playing.
-the output of the python progrem redirects to the C# interface where only close enugh comparison (in the treshhold limit) includes as a right answer.
+the output of the python (workes with Python 2.7) progrem redirects to the C# interface where only close enugh comparison (in the treshhold limit) includes as a right answer.
 The user will get the feedback from the app after the comparison in real time.
 
 The Algorithem:
